@@ -1,0 +1,18 @@
+.white{
+    color: #fff !important;
+}
+.black{
+  color: black !important;
+}
+.orange{
+    color: orange;
+}
+.white{
+    color: #fff;
+}
+.bgLinearOrange{
+    background: linear-gradient(to right, #FFA726, #F57C00) !important;
+}
+.bgLinearBlue{
+    background: linear-gradient(to right, #0993AB, #09748D) !important;
+}
